@@ -1,8 +1,6 @@
 
 ˆ
 Xpet-clinic-web/src/main/java/guru/springframework/sfgpetclinic/bootstrap/DataLoader.java,5\d\5d54de86b7e4e5c63ca426c35d8589f6b53ffb40
-f
-6pet-clinic-web/src/main/resources/templates/index.html,d\0\d0067effd94290bad0fc366a361da5a613859087
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
