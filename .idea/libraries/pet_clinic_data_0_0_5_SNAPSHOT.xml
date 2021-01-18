@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pet-clinic-data-0.0.5-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pet-clinic-data/target/pet-clinic-data-0.0.5-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
