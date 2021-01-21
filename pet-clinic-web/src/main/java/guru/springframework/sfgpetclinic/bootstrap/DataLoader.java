@@ -1,10 +1,7 @@
 package guru.springframework.sfgpetclinic.bootstrap;
 
 import guru.springframework.sfgpetclinic.model.model.*;
-import guru.springframework.sfgpetclinic.model.services.OwnerService;
-import guru.springframework.sfgpetclinic.model.services.PetTypeService;
-import guru.springframework.sfgpetclinic.model.services.SpecialtyService;
-import guru.springframework.sfgpetclinic.model.services.VetService;
+import guru.springframework.sfgpetclinic.model.services.*;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
@@ -18,19 +15,20 @@ public class DataLoader implements CommandLineRunner {
     private final VetService vetService;
     private final PetTypeService petTypeService;
     private final SpecialtyService specialityService;
+    private final VisitService visitService;
 
-    public DataLoader(OwnerService ownerService, VetService vetService, PetTypeService petTypeService, SpecialtyService specialityService) {
+    public DataLoader(OwnerService ownerService, VetService vetService, PetTypeService petTypeService, SpecialtyService specialityService, VisitService visitService) {
         this.ownerService = ownerService;
         this.vetService = vetService;
         this.petTypeService = petTypeService;
         this.specialityService = specialityService;
+        this.visitService = visitService;
     }
 
     @Override
     public void run(String... args) throws Exception {
 
         int count = petTypeService.findAll().size();
-
 
       if (count == 0 ){
           loadData();
@@ -93,6 +91,12 @@ public class DataLoader implements CommandLineRunner {
 
         ownerService.save(owner2);
 
+        Visit catVisit = new Visit();
+        catVisit.setPet(fionasCat);
+        catVisit.setDate(LocalDate.now());
+        catVisit.setDescription("Sneezy Kitty");
+
+        visitService.save(catVisit);
         System.out.println("Loaded Owners...");
 
         Vet vet1 = new Vet();
