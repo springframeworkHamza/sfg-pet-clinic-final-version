@@ -26,7 +26,6 @@ public class OwnerSDJpaService implements OwnerService {
         this.petTypeRepository = petTypeRepository;
     }
 
-
     @Override
     public Set<Owner> findAll() {
 
@@ -42,6 +41,7 @@ public class OwnerSDJpaService implements OwnerService {
 
     @Override
     public Owner save(Owner object) {
+
         return ownerRepository.save(object);
     }
 
