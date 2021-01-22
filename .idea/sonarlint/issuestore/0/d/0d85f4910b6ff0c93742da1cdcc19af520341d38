@@ -1,0 +1,6 @@
+
+IWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(á‘ªž
+GWeb:TableWithoutCaptionCheck" Add a description to this table.(íÊð2
+f Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(…ÖÚU
+g Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(ßÏàÉ
+g Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(„Ã¼î
