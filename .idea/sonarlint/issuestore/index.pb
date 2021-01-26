@@ -96,14 +96,8 @@ g
 7.idea/libraries/Maven__org_webjars_jquery_ui_1_11_4.xml,9\f\9f96f9464f401ed74ab81f07073749c5945562c3
 p
 @.idea/libraries/Maven__org_webjars_webjars_locator_core_0_35.xml,5\a\5aa326b0d70342c6a8f5851fc407590668721733
-n
->pet-clinic-web/src/main/resources/messages/messages.properties,d\a\dae0ba72c69f162cf06644fc0ebf65ffaff16e7b
-q
-Apet-clinic-web/src/main/resources/messages/messages_de.properties,7\7\77db709b7e09b6c6b818f1d8767d83436b8c66ff
 q
 Apet-clinic-web/src/main/resources/messages/messages_en.properties,6\0\6056898af014f21abc7ef2dde5fd6f07a52a141d
-q
-Apet-clinic-web/src/main/resources/messages/messages_fr.properties,8\a\8a4bfaf4356f9093c805a259620362754ec1a694
 m
 =pet-clinic-web/src/main/resources/templates/owners/index.html,c\9\c99f568721fa38d43d2c50091828c176a3580cbb
 k
