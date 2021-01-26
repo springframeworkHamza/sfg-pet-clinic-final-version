@@ -46,8 +46,6 @@ v
 F.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml,1\a\1a8dd96cea24440cd3fef501076cfbfe31055338
 v
 F.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml,d\1\d1513b0f63449a4cb2f84a1b8918ef26285422a1
-[
-+.idea/libraries/Maven__junit_junit_4_12.xml,a\f\afa6ca72908af2e838d0cb108eb24f143bc62da7
 j
 :.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml,6\8\682f61e4f3359d1fef9c56bc33f1e7da1b59c3a4
 e
@@ -184,3 +182,5 @@ spet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/services/
 ^pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/services/VetService.java,b\9\b9fd2daa15f6d28ac4f448d51596d443fe860ec2
 ê
 `pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/services/VisitService.java,3\7\374277f937bcec04ba5716b9755259a23a791dd3
+ê
+`pet-clinic-web/src/test/java/guru/springframework/sfgpetclinic/SfgPetClinicApplicationTests.java,b\b\bb90d814f4fe700ed9877845e660ef1ea9bb27c9
