@@ -6,6 +6,5 @@ orbs:
 workflows:
   maven_test:
     jobs:
-      - run: mvn dependency:go-offline
       - maven/test # checkout, build, test, and upload test results
 
