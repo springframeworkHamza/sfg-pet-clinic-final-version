@@ -178,3 +178,11 @@ spet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/services/
 `pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/services/VisitService.java,3\7\374277f937bcec04ba5716b9755259a23a791dd3
 ê
 `pet-clinic-web/src/test/java/guru/springframework/sfgpetclinic/SfgPetClinicApplicationTests.java,b\b\bb90d814f4fe700ed9877845e660ef1ea9bb27c9
+õ
+kpet-clinic-data/src/test/java/guru/springframework/sfgpetclinic/model/services/map/OwnerMapServiceTest.java,7\d\7d0a4ab3aa0a2a08957a01aaf086200c3cb28532
+D
+.circleci/config.yml,f\d\fd5da61396a8376845bee5cdf71aaf3c98a888ae
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+U
+%.mvn/wrapper/maven-wrapper.properties,3\2\32e074f71d16c1e88ac02aa83592ca6ad1fd98a8
