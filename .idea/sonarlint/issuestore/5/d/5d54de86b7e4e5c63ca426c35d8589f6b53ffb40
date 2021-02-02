@@ -1,7 +1,7 @@
 
-U	java:S106e"9Replace this use of System.out or System.err by a logger.(Ü¿üâ8ƒåâ¬ò.
-_
-java:S1854;"BRemove this useless assignment to local variable "savedDentistry".(Ñº§¯8Æ¤å¸ñ.
 T	java:S106u"9Replace this use of System.out or System.err by a logger.(ãÓ¹8Æ¤å¸ñ.
+U	java:S106e"9Replace this use of System.out or System.err by a logger.(Ü¿üâ8ƒåâ¬ò.
 P
 java:S1481;"3Remove this unused "savedDentistry" local variable.(Ñº§¯8Æ¤å¸ñ.
+_
+java:S1854;"BRemove this useless assignment to local variable "savedDentistry".(Ñº§¯8Æ¤å¸ñ.

@@ -18,7 +18,7 @@ import static org.hamcrest.Matchers.*;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.*;
 
 @ExtendWith(MockitoExtension.class)
-class OwnerControllerTest {
+public class OwnerControllerTest {
 
     @Mock
     OwnerService ownerService;
